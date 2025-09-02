@@ -1,0 +1,30 @@
+value_id,name_de,name_en,variable_name,unit,min_val,max_val
+15,Umgebungslufttemperatur,Ambient air temperature,ambient_air_temp,°C,-40.0,215.0
+4,Geschwindigkeit,vehicle speed,vehicle_speed,km/h,0.0,254.0
+1200,Packspannung,pack voltage,hv_battery_voltage,V,0.0,1000.0
+1205,PTC1 Strom,PTC1 current,ptc1_current,A,0.0,100.0
+1206,PTC2 Strom,PTC2 current,ptc2_current,A,0.0,100.0
+1207,PTC Spannung,PTC voltage,ptc_voltage,V,0.0,1000.0
+1208,Pack Temp. Min.,HV Battery Temp min.,hv_temp_min,°C,-40.0,100.0
+1209,Pack Temp. Max.,HV Battery Temp max.,hv_temp_max,°C,-40.0,100.0
+43,Innenraumtemperatur,Interior Temperature,interior_temp,°C,-100.0,100.0
+56,Leistung HV Nebenverbraucher,Power HV Aux,hv_aux_power,W,-20000.0,20000.0
+961,Temp. Stator (Hinterachse),temp stator (rear motor),temp_rear_motor_stator,°C,-20.0,250.0
+1265,Rotortemperatur Hinten,rotor temp rear motor,rear_motor_rotor_temp,°C,-40.0,250.0
+1269,Kühlmitteltemperatur Inverter Einlass,coolant temp inverter (inlet),coolant_temp_inverter_inlet,°C,-40.0,200.0
+1272,Temperatur HV Pack Einlass,Battery pack inlet temp,hv_battery_temp_inlet,°C,-40.0,200.0
+1273,Temperatur HV Pack Auslass,Battery pack outlet temp,hv_battery_temp_outlet,°C,-40.0,200.0
+1289,Pack Max. Temperaturdifferenz,HV temperature difference max.,hv_temp_delta,°C,0.0,100.0
+1290,Entladetiefe (DOD),Depth-Of-Discharge (DOD),hv_dod,%,0.0,100.0
+1291,Fahrtdauer,Track duration,track_duration,min,0.0,720.0
+1292,Ruhezeit,Idle period duration,idle_period_duration,min,0.0,525600.0
+1293,Zellspannung max,Cell voltage max,cell_voltage_max,V,0.0,5.0
+1294,Zellspannung min,Cell voltage min,cell_voltage_min,V,0.0,5.0
+1295,Max. Zellspannungsdifferenz,cell voltage difference max.,cell_voltage_delta,V,0.0,5.0
+1299,Zurückgelegte Strecke,traveled distance,traveled_distance,km,0.0,1000.0
+1300,PTC1 Leistung,PTC1 power,ptc1_power,W,0.0,10000.0
+1301,PTC2 Leistung,PTC2 power,ptc2_power,W,0.0,10000.0
+1303,Frequenz der Zell-C-Raten-Peaks,frequency of cell c-rate peaks,cell_c_rate_peak_freq,Hz,0.0,5.0
+1302,Amplitude der Zell-C-Raten-Peaks,amplitude of cell c-rate peaks,cell_c_rate_peak_ampl,1/C,0.0,10.0
+1288,Zell C-Rate,cell c-rate,cell_c_rate,1/h,-100.0,100.0
+900,Ladezustand,SOC,hv_soc,%,0.0,100.0

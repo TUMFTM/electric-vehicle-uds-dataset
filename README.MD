@@ -15,10 +15,6 @@ The main aim of the article is to investigate the gap between laboratory battery
 The longevity of traction batteries is critical for the widespread adoption of electric vehicles. While accelerated aging tests in laboratories are commonly used to study battery degradation, these tests often apply stress factors that differ significantly from real-world operating conditions. This dataset provides detailed real-world EV operational data alongside a comprehensive literature review of laboratory aging studies, enabling researchers to better understand and bridge the lab-to-field gap.
 
 
-## Important: Git LFS Required
-
-To download the parquet files in this repository, please ensure that Git LFS is installed on your system. For installation instructions and more information, visit [Git LFS](https://git-lfs.com/).
-
 ## Dataset Description
 
 The dataset includes:
@@ -88,6 +84,9 @@ If you use this dataset, please cite the associated article:
   journal={under review at eTransportation}
 }
 ```
+## Note: Files hosted via Git LFS
+
+To download the Parquet files in this repository, simply download the repository as a .zip file. To clone the repository, ensure that Git LFS is installed on your system, as the files are stored within Git Large File Storage. For installation instructions and more information, visit [Git LFS](https://git-lfs.com/).
 
 
 ## Contact

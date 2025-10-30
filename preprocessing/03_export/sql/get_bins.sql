@@ -1,0 +1,1 @@
+select * from track.histogram_bins

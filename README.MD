@@ -73,15 +73,20 @@ The dataset is distributed under the Creative Commons Attribution - NonCommercia
 
 If you use this dataset, please cite the associated article:
 
- Schreiber, Markus and Köning, Lukas and Balke, Georg and Abo Gamra, Kareem and Kayl, Jonas and Dietermann, Brian and Urban, Raphael and Grosu, Cristina and Lienkamp, Markus: "Lab-to-Field Gap in Battery Aging Studies: Mismatch of Operating Conditions between Laboratory Environments and Real-world Automotive Applications.", 2025 (under review at eTransportation) DOI: [to be added]
+ Schreiber, Markus and Köning, Lukas and Balke, Georg and Abo Gamra, Kareem and Kayl, Jonas and Dietermann, Brian and Urban, Raphael and Grosu, Cristina and Lienkamp, Markus: "Lab-to-Field Gap in Battery Aging Studies: Mismatch of Operating Conditions between Laboratory Environments and Real-world Automotive Applications.", 2026, eTransportation, DOI: 10.1016/j.etran.2025.100518
 
 
 ```
-@article{schreiber2025,
-  title={Lab-to-Field Gap in Battery Aging Studies: Mismatch of Operating Conditions between Laboratory Environments and Real-world Automotive Applications},
-  author={Schreiber, Markus and Köning, Lukas and Balke, Georg and Abo Gamra, Kareem and Kayl, Jonas and Dietermann, Brian and Urban, Raphael and Grosu, Cristina and Lienkamp, Markus},
-  year={2025},
-  journal={under review at eTransportation}
+@article{schreiber2026,
+  author = {Markus Schreiber and Lukas Leonard Köning and Georg Balke and Kareem Abo Gamra and Jonas Kayl and Brian Dietermann and Raphael Urban and Cristina Grosu and Markus Lienkamp},
+  title = {Lab-to-field gap in battery aging studies: Mismatch of operating conditions between laboratory environments and real-world automotive applications},
+  journal = {eTransportation},
+  volume = {27},
+  pages = {100518},
+  year = {2026},
+  issn = {2590-1168},
+  doi = {https://doi.org/10.1016/j.etran.2025.100518},
+  url = {https://www.sciencedirect.com/science/article/pii/S2590116825001250}
 }
 ```
 ## Note: Files hosted via Git LFS
